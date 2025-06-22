@@ -1,0 +1,30 @@
+body{
+    background-color: #f3f3f2;
+}
+
+img{
+    width: 150px; 
+    height: 150px;
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 8;
+  src: url(http://themes.googleusercontent.com/static/fonts/opensans/v8/cJZKeOuBrn4kERxqtaUH3aCWcynf_cDxXwCLxiixG1c.ttf) format('truetype');
+}
+
+    body{
+        background-color: #f3f3f2;
+        font-family: Arial, sans-serif;
+    }
+    .texto-vermelho{
+        color: red;  
+    }
+    .texto-azul{
+        color: blue;  
+    }
+    .texto-padrao{
+        color: black;  
+    }
+   

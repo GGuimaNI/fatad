@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upload de Arquivos</title>
+</head>
+<body>
+    <h2>Formulário para Upload de Arquivos</h2>
+    <form action="uploadFilesAluno.php" method="post" enctype="multipart/form-data">
+        <label for="filesToUpload">Escolha os arquivos (pdf, jpg, png, gif):</label>
+        <input type="file" name="filesToUpload[]" id="filesToUpload" accept=".pdf,.jpg,.jpeg,.png,.gif" multiple>
+        <input type="submit" value="Executar" name="submit">
+    </form>
+</body>
+</html>
