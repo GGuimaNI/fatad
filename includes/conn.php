@@ -1,7 +1,7 @@
 <?php
 $host = 'localhost';
 $user = 'root';
-//$pass = 'CruGuaMys1634*';
+
 $pass = '';
 $db = 'fatadgestao';
 

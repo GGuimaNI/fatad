@@ -4,7 +4,7 @@
 class Config extends PDO {
     protected $dsn = 'mysql:host=localhost;dbname=fatadgestao;charset=utf8';
     protected $user = 'root';
-    //protected $password = "CruGuaMys1634*";
+    
     protected $password = '';
 
 

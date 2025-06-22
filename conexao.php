@@ -1,7 +1,7 @@
 <?php
 	$servidor = "localhost";
 	$usuario = "root";
-	//$senha = "CruGuaMys1634*";
+	
     $senha = "";
 	$dbname = "fatadgestao";
 	
